@@ -6,8 +6,10 @@
  *
  * This class was written as an early example for teaching Java with BlueJ.
  * 
- * @author  Michael Kšlling and David J. Barnes
- * @version 2016.02.29
+ * @author  Emily Lubonty
+ * @version 2025.27.01
+ * This image was supposed to represent someone fishing on a dock but instead turned
+ * into a mountain scene with a person next to a red building. 
  */
 public class Picture
 {
